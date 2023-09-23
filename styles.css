@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.sampleTable,.sampleTable th, .sampleTable td{
+	border: 1px solid black;
+}
+.sampleTable{
+	background-color: yellow
+}
